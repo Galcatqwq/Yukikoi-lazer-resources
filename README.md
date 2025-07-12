@@ -1,17 +1,13 @@
 # osu!resources
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/ppy/osu?svg=true)](https://ci.appveyor.com/project/peppy/osu-resources) [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-Assets used by osu!.
+实验性的自定义osu!(Yukikoi-lazer)的资源文件喵.
 
-## Requirements
 
-This is a dependency of [osu!](https://github.com/ppy/osu) and intended to be used as a NuGet package only.
+## 许可协议
 
-## Licence
+本仓库大部分内容遵循 CC-BY-NC 4.0 许可协议。详见许可文件获取完整信息。简而言之：您可在非商业用途中使用相关内容。
 
-The majority of content in this repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Please see [the licence file](LICENCE.md) for more information. [tl;dr](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0)) you can use it in a non-commercial manner.
+部分字体采用独立授权许可，分发前请务必查阅其本地许可文件。
 
-Some fonts have separate licencing; please ensure to check their local licence files before distributing them.
-
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+本许可不涵盖在任何软件、资源、广告或宣传中使用 "osu!" 或 "ppy" 品牌标识的行为，该标识受商标法保护。如需使用这些术语，请事先联系我们获取授权许可。
