@@ -1,0 +1,28 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "global": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.221.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -151.39221,
+          "y": -50.244812
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.6228453,
+          "y": 0.6228451
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 36,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "SDtar001_tarB.png"
+        },
+        "Children": []
+      }
+    ]
+  }
+}
